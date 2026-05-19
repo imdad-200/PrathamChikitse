@@ -98,7 +98,7 @@ Before you begin, ensure your development environment meets the following requir
 ### Step 1: Clone the Repository
 Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/AlphaDoc1/PrathamChikitse.git
+git clone(https://github.com/imdad-200/PrathamChikitse.git)
 cd PrathamChikitse
 ```
 
